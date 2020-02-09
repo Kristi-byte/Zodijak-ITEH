@@ -51,16 +51,16 @@
 			<div class="row">
 				<div class="col-md-12">
 					<div class="form-group">
-						<label for="username">Username *</label>
-						<input id="username" type="text" name="username" class="form-control" placeholder="Username *" >
+						<label for="username">Korisnicko ime *</label>
+						<input id="username" type="text" name="username" class="form-control" placeholder="Korisnicko ime *" >
 					</div>
 				</div>
 			</div>
 			<div class="row">
 				<div class="col-md-12">
 					<div class="form-group">
-						<label for="password">Password *</label>
-						<input id="password" type="text" name="password" class="form-control" placeholder="Password *" >
+						<label for="password">Sifra *</label>
+						<input id="password" type="text" name="password" class="form-control" placeholder="Sifra *" >
 					</div>
 				</div>
 				<div class="col-md-12">
